@@ -1,15 +1,13 @@
 ## Photowebsite - clone of Cinematt - personal photography website
 Background from Matt at:  https://mattfinucane.com/projects/cinematt-nextjs/
 
-This is the latest rebuild of my personal photography website using the [NextJS](https://nextjs.org/) - a React based framework suitable for static sites.
+pr.new [https://pr.new] and stackblitz [https://stackblitz.com/] is being used to spin this environment up in a browswer. 
 
-I wanted to build this project to explore the basics of NextJS and build a static site. This was the perfect use case to generate a static site.
+1.  pr.new and create a stackblitz account connecting it to your github account
+2.  open the github project.  In this case at: [https://github.com/dalecope/photowebsite]
+3.  add "pr.new"[https://PR.NEW/github.com/dalecope/photowebsite]
 
-When I built my [personal website](https://github.com/matfin/personal-website), I thouched on a lot of topics such as server side rendering (SSR), route management and content serving.
-
-NextJS has a lot of this functionality already baked-in, and could be very useful for putting together websites just like this one.
-
-Previously, I used the [Hugo](https://gohugo.io/) static site generator, but this quickly became cumbersome given the amount of infrastructure needed on a machine to get it up and running.
+... 
 
 ### Set up
 You will need:
