@@ -1,4 +1,6 @@
-## Cinematt - personal photography website
+## Photowebsite - clone of Cinematt - personal photography website
+Background from Matt at:  https://mattfinucane.com/projects/cinematt-nextjs/
+
 This is the latest rebuild of my personal photography website using the [NextJS](https://nextjs.org/) - a React based framework suitable for static sites.
 
 I wanted to build this project to explore the basics of NextJS and build a static site. This was the perfect use case to generate a static site.
