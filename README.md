@@ -6,6 +6,11 @@ pr.new [https://pr.new] and stackblitz [https://stackblitz.com/] is being used t
 1.  pr.new and create a stackblitz account connecting it to your github account
 2.  open the github project.  In this case at: [https://github.com/dalecope/photowebsite]
 3.  add "pr.new"[https://PR.NEW/github.com/dalecope/photowebsite]
+4.  Update, Save, Commit directly to the main branch if desired.
+5.  Or... Create an Issue in github
+	- Person assigns and works in a push branch
+	- Pull request is made and approved with merge into the current branch
+	- Delete pull request branch
 
 After updates is currently deploying to vercel site at:  https://photowebsite-fhc2cl7d5-dalecopes-projects.vercel.app/
 
