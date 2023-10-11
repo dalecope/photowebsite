@@ -7,6 +7,8 @@ pr.new [https://pr.new] and stackblitz [https://stackblitz.com/] is being used t
 2.  open the github project.  In this case at: [https://github.com/dalecope/photowebsite]
 3.  add "pr.new"[https://PR.NEW/github.com/dalecope/photowebsite]
 
+After updates is currently deploying to vercel site at:  https://photowebsite-fhc2cl7d5-dalecopes-projects.vercel.app/
+
 ... 
 
 ### Set up
