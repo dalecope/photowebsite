@@ -4,11 +4,11 @@ Background from Matt at:  https://mattfinucane.com/projects/cinematt-nextjs/
 pr.new [https://pr.new] and stackblitz [https://stackblitz.com/] is being used to spin this environment up in a browswer. 
 
 Quick Links:
-Github main: [https://github.com/dalecope/photowebsite]
-Github work: [https://github.com/dalecope/photowebsite/tree/working]
-Stackblitz main: [https://pr.new/github.com/dalecope/photowebsite]
-Stackblitz work: [https://pr.new/github.com/dalecope/photowebsite/tree/working]
-Vercel Deployment: [https://photowebsite-woad.vercel.app/]
+	Github main: [https://github.com/dalecope/photowebsite]
+	Github work: [https://github.com/dalecope/photowebsite/tree/work]
+	Stackblitz main: [https://pr.new/github.com/dalecope/photowebsite]
+	Stackblitz work: [https://pr.new/github.com/dalecope/photowebsite/tree/work]
+	Vercel Deployment: [https://photowebsite-woad.vercel.app/]
 
 One time tasks:
 1.  pr.new and create a stackblitz account connecting it to your github account
