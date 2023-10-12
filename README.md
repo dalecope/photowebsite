@@ -9,17 +9,20 @@ One time tasks:
 3.  add "pr.new"[https://PR.NEW/github.com/dalecope/photowebsite]
 
 Update steps:
-1.  Create a new branch to introduce changes
-	a. directly update with pr.new on new branch or create issue to work
-    b. Update, Save, Commit directly to the main branch if desired. (but is not good practise)
-    c.  Or... Create an Issue in github
+1.  Create a issue in Github.com, this allows the creation of a new branch to introduce changes
 	- Person assigns and works in a push branch
+2.  add pr.new on the new branch url
+3.  let stackblitz build
+4.  update a component (README.md is an easy one)
+	- Save change
+	- Commit
+5.  In GitHub.com
 	- Pull request is made and approved with merge into the current branch
 	- Delete pull request branch
 
 After updates is currently deploying to vercel site at:  https://photowebsite-fhc2cl7d5-dalecopes-projects.vercel.app/ or https://photowebsite-woad.vercel.app/
 
-... 
+Hoping that these steps above prevent the need for local setup steps below.  :)
 
 ### Set up
 You will need:
