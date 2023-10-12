@@ -3,11 +3,16 @@ Background from Matt at:  https://mattfinucane.com/projects/cinematt-nextjs/
 
 pr.new [https://pr.new] and stackblitz [https://stackblitz.com/] is being used to spin this environment up in a browswer. 
 
+One time tasks:
 1.  pr.new and create a stackblitz account connecting it to your github account
 2.  open the github project.  In this case at: [https://github.com/dalecope/photowebsite]
 3.  add "pr.new"[https://PR.NEW/github.com/dalecope/photowebsite]
-4.  Update, Save, Commit directly to the main branch if desired.
-5.  Or... Create an Issue in github
+
+Update steps:
+1.  Create a new branch to introduce changes
+	a. directly update with pr.new on new branch or create issue to work
+    b. Update, Save, Commit directly to the main branch if desired. (but is not good practise)
+    c.  Or... Create an Issue in github
 	- Person assigns and works in a push branch
 	- Pull request is made and approved with merge into the current branch
 	- Delete pull request branch
