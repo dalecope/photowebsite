@@ -24,7 +24,7 @@ const Header = ({ className, navRevealed, onMenuButtonClick, onTitleClick }: Pro
       ) : (
         <Link href="/">
           <Title data-testid="title" onClick={onTitleClick}>
-            Cinematt
+            DianeDale
           </Title>
         </Link>
       )}
