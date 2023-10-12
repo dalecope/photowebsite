@@ -4,11 +4,13 @@ Background from Matt at:  https://mattfinucane.com/projects/cinematt-nextjs/
 pr.new [https://pr.new] and stackblitz [https://stackblitz.com/] is being used to spin this environment up in a browswer. 
 
 Quick Links:
-	Github main: [https://github.com/dalecope/photowebsite]
-	Github work: [https://github.com/dalecope/photowebsite/tree/work]
-	Stackblitz main: [https://pr.new/github.com/dalecope/photowebsite]
-	Stackblitz work: [https://pr.new/github.com/dalecope/photowebsite/tree/work]
-	Vercel Deployment: [https://photowebsite-woad.vercel.app/]
+- Github main: [https://github.com/dalecope/photowebsite]
+- Github work: [https://github.com/dalecope/photowebsite/tree/work]
+- Stackblitz main: [https://pr.new/github.com/dalecope/photowebsite]
+- Stackblitz work: [https://pr.new/github.com/dalecope/photowebsite/tree/work]
+- Vercel 1: [https://photowebsite-woad.vercel.app/]
+- Vercel 2: [https://photowebsite-dalecopes-projects.vercel.app/]
+- Vercel 3: [https://photowebsite-git-main-dalecopes-projects.vercel.app/]
 
 One time tasks:
 1.  pr.new and create a stackblitz account connecting it to your github account
@@ -16,10 +18,10 @@ One time tasks:
 3.  add "pr.new"[https://PR.NEW/github.com/dalecope/photowebsite]
 
 Update steps starting in Github.com:
-1.  Open branches and create a new branch.  I typically use "working"
+1.  Open branches and create a new branch.  I typically use "work"
 	or...
   a.  Create a issue in Github.com, this allows the creation of a new branch to introduce changes
-  b.  Person assigns and works in a push branch
+  b.  Person assigns and works in a new branch
 2.  add pr.new on the new branch url
 3.  let stackblitz build
 4.  update a component (README.md is an easy one)
@@ -28,8 +30,7 @@ Update steps starting in Github.com:
 5.  In GitHub.com
 	- Pull request is made and approved with merge into the current branch
 	- Delete pull request branch
-
-After updates is currently deploying to vercel site at:  https://photowebsite-fhc2cl7d5-dalecopes-projects.vercel.app/ or https://photowebsite-woad.vercel.app/
+6. Autodeploys to vercel
 
 Hoping that these steps above prevent the need for local setup steps below.  :)
 
