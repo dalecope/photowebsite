@@ -17,7 +17,7 @@ Update steps:
 	- Pull request is made and approved with merge into the current branch
 	- Delete pull request branch
 
-After updates is currently deploying to vercel site at:  https://photowebsite-fhc2cl7d5-dalecopes-projects.vercel.app/
+After updates is currently deploying to vercel site at:  https://photowebsite-fhc2cl7d5-dalecopes-projects.vercel.app/ or https://photowebsite-woad.vercel.app/
 
 ... 
 
