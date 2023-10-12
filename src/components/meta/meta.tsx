@@ -17,12 +17,12 @@ const siteBase: string = process.env.base;
 
 const Meta = ({ currentPath, titlePhoto }: Props): JSX.Element => (
   <Head>
-    <title>Cinematt</title>
+    <title>CineWeb</title>
     <meta
       httpEquiv="Content-Security-Policy"
       content="default-src 'self' 'unsafe-eval'; style-src 'unsafe-inline'; img-src 'self' *.cloudinary.com;"
     />
-    <meta name="apple-mobile-web-app-title" content="Cinematt" />
+    <meta name="apple-mobile-web-app-title" content="CineWeb" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
@@ -36,14 +36,14 @@ const Meta = ({ currentPath, titlePhoto }: Props): JSX.Element => (
     <meta property="og:site_name" content="cinematt.photography" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="en-IE" />
-    <meta property="og:title" content="Cinematt" />
+    <meta property="og:title" content="CineWeb" />
     <meta property="og:description" content="Personal photography website of Matt Finucane" />
     {titlePhoto && <meta property="og:image" content={socialImagePath(titlePhoto)} />}
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@matfinucane" />
     <meta name="twitter:creator" content="@matfinucane" />
-    <meta name="twitter:title" content="Cinematt" />
+    <meta name="twitter:title" content="CineWeb" />
     <meta name="twitter:url" content={`${siteBase}${currentPath}`} />
     <meta name="twitter:description" content="Personal photography website of Matt Finucane" />
     {titlePhoto && (
