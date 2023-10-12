@@ -8,9 +8,11 @@ One time tasks:
 2.  open the github project.  In this case at: [https://github.com/dalecope/photowebsite]
 3.  add "pr.new"[https://PR.NEW/github.com/dalecope/photowebsite]
 
-Update steps:
-1.  Create a issue in Github.com, this allows the creation of a new branch to introduce changes
-	- Person assigns and works in a push branch
+Update steps starting in Github.com:
+1.  Open branches and create a new branch.  I typically use "working"
+	or...
+  a.  Create a issue in Github.com, this allows the creation of a new branch to introduce changes
+  b.  Person assigns and works in a push branch
 2.  add pr.new on the new branch url
 3.  let stackblitz build
 4.  update a component (README.md is an easy one)
